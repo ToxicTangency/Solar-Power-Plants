@@ -38,5 +38,6 @@ import IconTelegram from './UI/Icons/IconTelegram.vue';
   background-image: url('/src/assets/hero__bg.jpg');
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 </style>

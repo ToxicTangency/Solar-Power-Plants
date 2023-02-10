@@ -16,5 +16,6 @@
   background-image: url('/src/assets/quote__img.jpg');
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 </style>

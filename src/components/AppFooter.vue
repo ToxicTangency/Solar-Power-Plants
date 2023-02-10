@@ -127,5 +127,6 @@ const sumbitForm = () => {
   background-image: url('/src/assets/footer__bg.png');
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 </style>
