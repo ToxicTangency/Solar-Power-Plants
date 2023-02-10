@@ -1,6 +1,6 @@
 ## About
 
-Solar energy landing page
+Solar power plants landing page
 
 Link: [solar-plants.netlify.app](https://solar-plants.netlify.app/)
 
