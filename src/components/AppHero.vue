@@ -14,7 +14,7 @@ import IconTelegram from './UI/Icons/IconTelegram.vue';
     <div class="subTitle mx-auto mt-36 text-lg text-white">
       Зеленый тариф для дома и бизнеса
     </div>
-    <div class="title mx-auto md:text-6xl text-2xl text-white">
+    <div class="title mx-auto md:text-6xl text-2xl text-white text-center">
       Солнечная электростанция
     </div>
     <div class="addTitle mx-auto text-white md:text-5xl text-xl">

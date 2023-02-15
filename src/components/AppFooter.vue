@@ -47,7 +47,9 @@
       <div
         class="footer__bottom flex md:flex-row flex-col justify-between mt-36 items-center md:gap-0 gap-4"
       >
-        <div class="terms text-white">Политика конфиденциальности</div>
+        <div class="terms text-white">
+          <a href="#">Политика конфиденциальности</a>
+        </div>
         <div class="logo">
           <IconLogo />
         </div>
