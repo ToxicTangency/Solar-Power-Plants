@@ -6,7 +6,7 @@
           <div class="text-white text-2xl uppercase font-bold mb-14">
             ОСТАВИТЬ ЗАЯВКУ
           </div>
-          <form class="flex flex-col gap-16" method="POST" data-netlify="true">
+          <form class="flex flex-col gap-16">
             <input
               class="bg-transparent text-white border-b-2 pb-2 focus:outline-0"
               type="text"
@@ -26,7 +26,6 @@
               class="mt-16 ml-10 text-white"
               :variant="'white'"
             />
-            <button type="submit">Test</button>
           </form>
         </div>
         <div class="footer__contacts md:w-1/2 w-full">
